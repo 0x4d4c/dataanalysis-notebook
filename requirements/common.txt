@@ -1,0 +1,12 @@
+elasticsearch
+fastavro
+networkx
+pylint
+pymongo
+pytest
+pytest-pep8
+pytest-pylint
+python-dateutil
+requests
+tld
+tldextract
