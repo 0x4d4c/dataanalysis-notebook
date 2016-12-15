@@ -6,7 +6,7 @@
 | Kernel | Version | Link |
 | --- | --- | --- |
 | CPython 2 | 2.7.12 | https://www.python.org |
-| CPython 2 | 3.5.2 | https://www.python.org |
+| CPython 3 | 3.5.2 | https://www.python.org |
 | PyPy 2 | 2.7 | http://www.pypy.org |
 | PyPy 3 | 3.3 | http://www.pypy.org |
 
