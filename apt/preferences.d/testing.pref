@@ -1,4 +1,0 @@
-Package: *
-Pin: release o=Debian,a=testing
-Pin-Priority: 400
-

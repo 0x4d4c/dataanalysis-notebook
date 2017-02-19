@@ -1,7 +1,0 @@
-cartopy
-cython
-matplotlib
-pandas
-psycopg2
-python-snappy
-seaborn
