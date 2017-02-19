@@ -8,5 +8,6 @@ pytest-pep8
 pytest-pylint
 python-dateutil
 requests
+shapely
 tld
 tldextract

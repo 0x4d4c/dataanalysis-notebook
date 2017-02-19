@@ -14,6 +14,7 @@ import pytest
     'pymongo',
     'dateutil',
     'requests',
+    'shapely',
     'tld',
     'tldextract',
 ])
@@ -23,6 +24,7 @@ def test_can_import_common_module(module):
 
 @pytest.mark.cpython
 @pytest.mark.parametrize('module', [
+    'cartopy',
     'matplotlib',
     'pandas',
     'psycopg2',

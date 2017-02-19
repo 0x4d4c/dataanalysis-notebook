@@ -1,0 +1,8 @@
+Package: proj-bin
+Pin: release a=testing
+Pin-Priority: 950
+
+Package: libproj-dev
+Pin: release a=testing
+Pin-Priority: 950
+

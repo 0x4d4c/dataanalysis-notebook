@@ -13,6 +13,7 @@
 ### Packages
 |                | CPython 2 | CPython 3 | PyPy 2 | PyPy 3 | 
 | -------------- | --------- | --------- | ------ | ------ |
+| Cartopy         | x | x | - | - |
 | Cython          | x | x | - | - |
 | elasticsearch   | x | x | x | x |
 | fastavro        | x | x | x | x |
@@ -29,6 +30,7 @@
 | python-snappy   | x | x | x | - |
 | requests        | x | x | x | x |
 | seaborn         | x | x | - | - |
+| Shapely         | x | x | x | x |
 | tld             | x | x | x | x |
 | tldextract      | x | x | x | x |
 
